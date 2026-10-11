@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(123, 123, 224);
+}
+.sat-PM{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.obratno{
+    width: 90px;
+    height: 20px;
+    background-color: aqua;
+    color: black;
+    border-radius: 8px;
+    text-align: center;
+}
+.obratno-a{
+    display: flex;
+    color: black;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+}
+.obratno-obratno{
+    display: flex;
+    justify-content: center;
+}
+.content-a{
+    color: black;
+}
