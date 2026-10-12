@@ -44,3 +44,10 @@ body{
     align-items: center;
     justify-content: center;
 }
+.img-hapka{
+    text-align: center;
+}
+.img{
+    width: 400px;
+    height: 250px; 
+}
