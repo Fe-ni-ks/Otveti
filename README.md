@@ -1,1 +1,1 @@
-<a href="kamanda.html">Дальше</a>
+<a text-align href="kamanda.html">Дальше</a>
